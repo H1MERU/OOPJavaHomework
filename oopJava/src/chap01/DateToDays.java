@@ -5,7 +5,7 @@ package chap01;
 
 import java.util.Scanner;
 
-public class chap01_07 {
+public class DateToDays {
     public static void main(String[] args) {
         System.out.println("输入2014年的某个日期：");
         java.util.Scanner scanMonth = new Scanner(System.in);

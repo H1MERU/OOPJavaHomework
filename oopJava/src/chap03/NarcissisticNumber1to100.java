@@ -1,11 +1,11 @@
-package chap01;
+package chap03;
 import java.lang.Math;
 
 /**
  * 输出所有的水仙花数
  */
 
-public class chap01_03 {
+public class NarcissisticNumber1to100 {
     public static void main(String[] args) {
         System.out.println("水仙花数：");
         for(int i = 100; i<1000;i++){

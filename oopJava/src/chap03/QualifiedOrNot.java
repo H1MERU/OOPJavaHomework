@@ -1,11 +1,11 @@
-package chap01;
+package chap03;
 /*
  * 对学生成绩大于60分的，输出“合格”，低于60的，输出“不合格”
  */
 
 import java.util.Scanner;
 
-public class chap01_05 {
+public class QualifiedOrNot {
     public static void main(String[] args) {
         System.out.println("输入学生成绩：");
         java.util.Scanner scan = new Scanner(System.in);

@@ -1,11 +1,11 @@
-package chap01;
+package chap03;
 /*
  * 根据指定月份，打印该月份所属的季节
  */
 
 import java.util.Scanner;
 
-public class chap01_06 {
+public class SeasonOutput {
     public static void main(String[] args) {
         System.out.println("输入月份：");
         java.util.Scanner scan = new Scanner(System.in);

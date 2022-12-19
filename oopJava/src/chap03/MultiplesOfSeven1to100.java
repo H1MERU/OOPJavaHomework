@@ -1,9 +1,9 @@
-package chap01;
+package chap03;
 /*
  * 打印1~100之间所有是7倍数的整数个数以总和
  */
 
-public class chap01_02 {
+public class MultiplesOfSeven1to100 {
     public static void main(String[] args) {
         int num = 0;
         int sum = 0;
